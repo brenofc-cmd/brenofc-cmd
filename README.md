@@ -6,9 +6,9 @@
 **breno-cmd/breno-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno-cmd&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-cmd)](https://github.com/edilsonfsp/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-cmd&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenofc-cmd&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenofc-cmd)](https://github.com/brenofc-cmd/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenofc-cmd&layout=compact)
 
 
 -->
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-cmd&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenofc-cmd&hide_progress=true)
 
 ##
 
