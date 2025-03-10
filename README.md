@@ -1,4 +1,4 @@
-### Oi! Eu sou o Brendon Castellani,estudante, passei no vestibulinho FIEC ...👋
+### Oi! Eu sou o Brendon Castellani,estudante, sou um estudante da FIEC ...👋
 
 ##
 
